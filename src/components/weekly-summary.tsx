@@ -1,5 +1,5 @@
 import { CheckCircle2, Plus } from 'lucide-react'
-import logoUrl from '../assets/logo-in-orbit.svg'
+import logoUrl from '../assets/logo.svg'
 import { DialogTrigger } from '@radix-ui/react-dialog'
 import { Button } from './ui/button'
 import { Progress, ProgressIndicator } from './ui/progress-bar'
